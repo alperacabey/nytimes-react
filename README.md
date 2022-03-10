@@ -1,5 +1,3 @@
-# openweathermap-nuxt
-
 # Before Start
 
 Generate personel api key from [nytimes tokens page](https://developer.nytimes.com/).\
